@@ -1,0 +1,28 @@
+  JQUERY  method worth to know
+
+1. magnific-top-up
+2. tooltipster
+3. maplace.js
+4.jquery one page scroll
+
+
+hosting online via github
+
+a. on terminal cd desktop
+b. git clone http://github.com/..............
+c. cd ermiaskidane.gitub.io
+d. ls
+e. touch index.html( to create via terminal if u have not already ) and ls
+f. atom index.html(if you want to open in sublime text, sublime index.html)
+    after you write some code , make ready to push by
+g. git add * or git add index.html
+    git status ...... to see the result
+
+h. git commit -m 'added index.html'
+
+
+# git init
+## copy and paste the directory then git add .
+### git commit . -m 'first'
+#### git remote add origin https://github.com/ermiaskidane/ermiaskidane.github.io.git
+##### git push -u origin master 

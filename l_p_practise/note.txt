@@ -1,0 +1,44 @@
+css properities
+
+a. line-height  usually 145%
+b. 'h2:after' the psuedo effect
+
+c. overflow: hidden;  at .meal-photo
+        zoom in and out . scale up     .opacity
+                        . hidden       . make dark the parent element if not!
+                        .scale down
+                        .transition
+
+                 HOW IT WORKS
+d.in section 'section-steps'
+      a. steps-box:first-child(had not effect may be psuedo effect doesnot work on inline elements )
+      b. steps-box:last-child
+
+e. to make a circular number buttons checkin section 'section-steps' the '.works-step div'
+
+f. every time we make a float we need to clear that using 'clearfix'
+
+                CITIES
+
+g. to edit icons with list of short opitionic form see 'small-icon' and 'big-icon' genreal edit for icons
+
+h. editing to links for better effect refer to 'a:link, a:visited'
+
+        TESTIMONLAS
+
+i.  html element 'blockquote' and 'cite'
+j.  psuedo effect 'before'  check on the 'blockquote:before'  and the css-trick of iso.
+
+        SING UP
+
+K. 'border-top-left-radius' to affect one corner specifically refer at '.plan-box div:first-child'
+l.  'span ' to style one or two word of sentences, refer '.plan-price span'
+
+
+         FORM
+M. another css3 method, input[type=text] or the psuedo effect *:focus  refer in the form
+
+
+    FOOTER
+
+N. refer footer  for more comprehensive 
